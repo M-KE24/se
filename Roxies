@@ -1,0 +1,172 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Minnesota Timberwolves - Oklahoma City Thunder (AWAY)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/149.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Minnesota Timberwolves - Oklahoma City Thunder (HOME)
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+#EXTVLCOPT:http-referrer=https://nbawebcast.app//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://live.webcastserver.online/hdstream/embed/152.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Angels vs Athletics
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb11.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Angels vs Dodgers
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb12.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Astros vs Rays
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png" group-title="SOCCER",Brighton vs Liverpool
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/epl.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cubs vs Marlins
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Diamondbacks vs Dodgers
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb12.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Guardians vs Twins
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORTS",Indycar Series - Qualifying
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://ly.prettyinpunkness.online/f1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Mariners vs Padres
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb13.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Mariners vs White Sox
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb6.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Mets vs Red Sox
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Mets vs Yankees
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb15.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORTS",NASCAR Cup Series - All Open
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/nascar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/motorsport-logo.png" group-title="MOTORSPORTS",NASCAR Cup Series - All Star
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/nascar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",NFL Draft (Stream 1)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/nfl.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",NFL Draft (Stream 2)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/draft.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Nuggets vs Thunder (Stream 1)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/nba.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Nuggets vs Thunder (Stream 2)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/nbaalt.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Orioles vs Brewers
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Phillies vs Rockies
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb9.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Reds vs Pirates
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Rockies vs Diamondbacks
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb14.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Royals vs Giants
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb10.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Tigers vs Cardinals
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://lol.afronifty.com/mlb8.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHTING",WWE RAW (Stream 1)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/roxiewwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png" group-title="FIGHTING",WWE RAW (Stream 2)
+#EXTVLCOPT:http-origin=https://roxiestreams.cc
+#EXTVLCOPT:http-referrer=https://roxiestreams.cc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://roxie.se-main.com.mx/wwe.m3u8
+
