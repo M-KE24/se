@@ -1,6 +1,6 @@
 const player = videojs('my-video');
 
-const defaultM3uUrl = 'https://raw.githubusercontent.com/Sakubaba00/saku/refs/heads/main/playlist1.m3u';
+const defaultM3uUrl = 'https://raw.githubusercontent.com/M-KE24/se/refs/heads/main/plex.m3u';
 
 const playlistElement = document.querySelector('#playlist ul');
 const playlistContainer = document.getElementById('playlist');
